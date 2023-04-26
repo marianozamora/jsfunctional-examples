@@ -1,0 +1,7 @@
+.history 
+./history/2018-01-01_00-00-00_UTC
+/node_modules
+/node_modules/async
+.vscode
+.DS_Store
+```
